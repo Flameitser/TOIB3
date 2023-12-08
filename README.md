@@ -13,6 +13,7 @@
 ## Устанавливаем, включаем правила TCP и UDP соединения и настраиваем правила rsyslog на сервере и клиенте
 
 **Установка и насйтрока на сервере**
+
 ![image](https://github.com/Flameitser/TOIB3/assets/65831927/201397db-a4c0-454d-bddd-cc7996421165)
 
 ![image](https://github.com/Flameitser/TOIB3/assets/65831927/9922c21f-ff26-4232-a809-550a001d1d15)
@@ -20,6 +21,7 @@
 ![image](https://github.com/Flameitser/TOIB3/assets/65831927/d18adda7-e7df-4210-8404-ba94183d105c)
 
 **Установка и настройка на клиенте**
+
 ![image](https://github.com/Flameitser/TOIB3/assets/65831927/c1ebb168-a2f4-4204-a7b4-56d9502e95ca)
 
 ![image](https://github.com/Flameitser/TOIB3/assets/65831927/6bb9a71d-330e-4681-9a4f-72fd738779aa)
